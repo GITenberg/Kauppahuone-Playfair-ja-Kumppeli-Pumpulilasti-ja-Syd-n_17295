@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: Translation of Les Forceurs de blocus
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17295#Kauppahuone-Playfair-ja-Kumppeli-Pumpulilasti-ja-Syd-n
 gutenberg_issued: '2005-12-12'
 gutenberg_type: Text
 identifiers:
